@@ -1,2 +1,2 @@
 # site-de-estudo
-:bulb: estudo 
+ estudo 
