@@ -42,7 +42,7 @@ header .menu-line {
 }
 .container .rigthside {
     flex: 1;
-    background-image: url('../images/hero.jpg');
+    background-image: url('hero.jpg');
     background-size:cover ;
     background-position: center top;
 }
